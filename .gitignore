@@ -1,0 +1,39 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/Server
+/E-Commerce-API/node_modules
+/E-Commerce-Management/node_modules
+/E-Commerce-Page/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+/E-Commerce-API/build
+/E-Commerce-Management/build
+/E-Commerce-Page/build
+
+# misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+/E-Commerce-API/.env
+/E-Commerce-API/.git
+/E-Commerce-Management/.env
+/E-Commerce-Management/.git
+/E-Commerce-Page/.env
+/E-Commerce-Page/.git
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local Netlify folder
+.netlify
