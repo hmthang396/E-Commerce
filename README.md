@@ -1,7 +1,9 @@
 <h1 align="center"> E-Commerce </h1>
+
 # Description
-> Hệ Thống Bán Hàng Online
+Hệ Thống Bán Hàng Online
 <!-- table of content -->
+
 # Table Of Content  📃
 
 - [Description](#description)
@@ -12,9 +14,8 @@
 
 # E-Commerce-Page
 
-<details>
-    Link: https://e-commerce-page2.netlify.app
-</details>
+Link: https://e-commerce-page2.netlify.app
+
 <details>
     <summary>
         1. ✨ Tính Năng
