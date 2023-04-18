@@ -77,8 +77,8 @@
         1. ⌨️ Công nghệ
     </summary>
     <br/>
-    <br/>
     Link: https://e-commerce-api-gtr2.onrender.com
+    <br/>
     - NodeJS (ExpressJS)<br/>
     - ORM: Sequelize<br/>
     - Database: MSSQL(Development), MySQL(Test), PostgreSQL(Production)<br/>
