@@ -61,11 +61,12 @@
 </details>
 <details>
     <summary>
-        2. Note
+        3. Tài khoản đăng nhập
     </summary>
     <br/>
-    - Tài khoản đăng nhập: viewer@gmail.com - viewer123 <br/>
+    - Tài khoản đăng nhập: <b>viewer@gmail.com - viewer123</b> <br/>
 </details>
+
 # E-Commerce-API
 <details>
     <summary>
