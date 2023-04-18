@@ -20,7 +20,6 @@ Link: https://e-commerce-page2.netlify.app
     <summary>
         1. ✨ Tính Năng
     </summary>
-    
     <br/>
     - So sánh các sản phẩm để tìm ra sản phẩm phụ hợp với bản thâm
     <br/>
@@ -46,12 +45,13 @@ Link: https://e-commerce-page2.netlify.app
 </details>
 
 # E-Commerce-Management
+
+Link: https://e-commerce-management.netlify.app
+
 <details>
     <summary>
         1. ✨ Tính Năng
     </summary>
-    <br/>
-    Link: https://e-commerce-management.netlify.app
     <br/>
     - CRUD : Product, Category, Sub-Category, Brand, Account,...<br/>
     - Phân quyền và Xác thực tài khoản.<br/>
@@ -75,12 +75,13 @@ Link: https://e-commerce-page2.netlify.app
 </details>
 
 # E-Commerce-API
+
+Link: https://e-commerce-api-gtr2.onrender.com
+
 <details>
     <summary>
         1. ⌨️ Công nghệ
     </summary>
-    <br/>
-    Link: https://e-commerce-api-gtr2.onrender.com
     <br/>
     - NodeJS (ExpressJS)<br/>
     - ORM: Sequelize<br/>
