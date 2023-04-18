@@ -13,11 +13,13 @@
 # E-Commerce-Page
 
 <details>
+    Link: https://e-commerce-page2.netlify.app
+</details>
+<details>
     <summary>
         1. ✨ Tính Năng
     </summary>
-    <br/>
-    Link: https://e-commerce-page2.netlify.app
+    
     <br/>
     - So sánh các sản phẩm để tìm ra sản phẩm phụ hợp với bản thâm
     <br/>
